@@ -1,2 +1,2 @@
-# test_CI_CD
-CI/CD testing
+# CI/CD Tests
+This repository is used for testing GIT CI/CD Pipelines.
